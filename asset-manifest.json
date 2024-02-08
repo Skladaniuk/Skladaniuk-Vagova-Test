@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Skladaniuk/Skladaniuk-Vagova-Test/static/css/main.f855e6bc.css",
-    "main.js": "/Skladaniuk/Skladaniuk-Vagova-Test/static/js/main.07d7cd18.js",
-    "static/js/592.7f72a991.chunk.js": "/Skladaniuk/Skladaniuk-Vagova-Test/static/js/592.7f72a991.chunk.js",
-    "static/media/logo.svg": "/Skladaniuk/Skladaniuk-Vagova-Test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Skladaniuk/Skladaniuk-Vagova-Test/index.html",
-    "main.f855e6bc.css.map": "/Skladaniuk/Skladaniuk-Vagova-Test/static/css/main.f855e6bc.css.map",
-    "main.07d7cd18.js.map": "/Skladaniuk/Skladaniuk-Vagova-Test/static/js/main.07d7cd18.js.map",
-    "592.7f72a991.chunk.js.map": "/Skladaniuk/Skladaniuk-Vagova-Test/static/js/592.7f72a991.chunk.js.map"
+    "main.css": "/Skladaniuk-Vagova-Test/static/css/main.f855e6bc.css",
+    "main.js": "/Skladaniuk-Vagova-Test/static/js/main.0fffbf92.js",
+    "static/js/592.7f72a991.chunk.js": "/Skladaniuk-Vagova-Test/static/js/592.7f72a991.chunk.js",
+    "static/media/logo.svg": "/Skladaniuk-Vagova-Test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Skladaniuk-Vagova-Test/index.html",
+    "main.f855e6bc.css.map": "/Skladaniuk-Vagova-Test/static/css/main.f855e6bc.css.map",
+    "main.0fffbf92.js.map": "/Skladaniuk-Vagova-Test/static/js/main.0fffbf92.js.map",
+    "592.7f72a991.chunk.js.map": "/Skladaniuk-Vagova-Test/static/js/592.7f72a991.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.07d7cd18.js"
+    "static/js/main.0fffbf92.js"
   ]
 }
