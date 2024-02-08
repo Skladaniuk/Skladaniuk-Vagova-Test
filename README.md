@@ -1,1 +1,0 @@
-# Skladaniuk-Vagova-Test
